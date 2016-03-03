@@ -1,5 +1,6 @@
 Poniedzialek
 Wtorek
 Sroda
-Czwartek
-Piatek
+Sobota
+Sobota
+Sobota
